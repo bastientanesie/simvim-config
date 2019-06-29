@@ -1,2 +1,3 @@
 # simvim-config
-My SimVim config file
+
+My [SimVim](https://simvim.com) config file.
